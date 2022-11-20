@@ -1,0 +1,110 @@
+.btn{
+    width: 16%;
+    background-color: #2E3192;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    height: 3rem;
+    font-weight: 600;
+    font-size: .8rem;
+}
+
+
+@media only screen and (max-width: 1073px){
+    .btn{
+        width: 18%;
+    }
+}
+@media only screen and (max-width: 943px){
+    .social{
+        height: 100%;
+        width: 40%;
+        padding: 3%;
+    }
+}
+@media only screen and (max-width: 843px){
+    .lfthd{
+        font-size: 2.5rem;
+    }
+    .prt22{
+        font-size: 1.2rem;
+    }
+    .prt21{
+        font-size: 1.6rem;
+    }
+    .prt23{
+        font-size: 1.3rem;
+    }
+    .prt3hd, .prt4hd{
+        font-size: 2.2rem;
+    }
+    .cpytxt{
+        font-size: .9rem;
+    }
+    .sbprt5hd{
+        padding-top: .6rem;
+    }
+    .cpy{
+        width: 10%;
+    }
+    .lgotxt{
+        font-size: 1.8rem;
+    }
+}
+@media only screen and (max-width: 768px){
+    .w1bdy{
+        padding-top: 2rem;
+    }
+}
+@media only screen and (max-width: 668px){
+    .btn{
+        width: 25%;
+    }
+}
+
+@media only screen and (max-width: 568px){
+    .menu{
+        display: block;
+    }
+    .prt1{
+        padding: 2rem 6% 4rem 6%;
+        height: 60rem;
+        justify-content: flex-start;
+    }
+    .socials{
+        width: 30%;
+    }
+    .cpy{
+        width: 7%;
+    }
+    .prt22{
+        font-size: 1.1rem;
+    }
+    .prt21{
+        font-size: 1.3rem;
+    }
+    .prt23{
+        font-size: 1.2rem;
+    }
+    .prt2{
+        justify-content: flex-start;
+        gap: 5rem;
+        height: 3.9rem;
+    }
+}
+
+@media only screen and (max-width: 468px){
+    .btn{
+        width: 35%;
+    }
+}
+
+@media only screen and (max-width: 376px){
+    .w1bdy{
+        padding-top: 1.5rem;
+    }
+    .btn{
+        width: 40%;
+    }
+}
+    

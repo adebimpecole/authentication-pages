@@ -1,0 +1,8 @@
+.test {
+    color: white;
+    font-weight: bold;
+    background-color: blueviolet;
+    border: 1px solid blue;
+    padding: .8em 1em;
+    border-radius: .2rem;
+  }
