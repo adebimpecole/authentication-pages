@@ -12,12 +12,12 @@
 ## Overview
 ### Screenshot
 
-![](./images/page3.png)
-![](./images/page4.png)
-![](./images/page5.png)
-![](./images/page6.png)
-![](./images/page7.png)
-![](./images/page8.png)
+![](./page3.png)
+![](./page4.png)
+![](./page5.png)
+![](./page6.png)
+![](./page7.png)
+![](./page8.png)
 
 ### Links
 
