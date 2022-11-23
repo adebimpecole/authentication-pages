@@ -20,7 +20,7 @@ const NewPass = () => {
                 <Inputbox type="password" name="pwrd" id="pwrd" place="Enter New Password"/>
                 <Inputbox type="password" name="npwrd" id="npwrd" place="Confirm New Password"/>
             </div>
-            <Button>Reset Password</Button>
+            <Link to='/wel2' className='lg'><Button>Reset Password</Button></Link>
         </div>
     </div>
   )
